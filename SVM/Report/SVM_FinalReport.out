@@ -1,0 +1,27 @@
+\BOOKMARK [0][-]{chapter.1}{Exercise 1 : SVM Classification}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Exercise 1}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Two Gaussians :}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Support Vector Machine Classifier:}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Least-Squares Support Vector Machine Classifier:}{section.1.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Homework Problems}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{Ripley Dataset}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.2}{Wisconsin Breast Cancer dataset}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.3}{Diabetes dataset}{section.1.2}% 9
+\BOOKMARK [0][-]{chapter.2}{Exercise 2: Function Estimation and Time Series Prediction}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Support vector machine for function estimation}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{The sinc function}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{Regression of the sinc function}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{Application of the Bayesian framework}{section.2.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Automatic Relevance Determination}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.4}{Robust regression}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.5}{Homework Problems}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.5.1}{Logmap dataset}{section.2.5}% 18
+\BOOKMARK [2][-]{subsection.2.5.2}{Santa Fe dataset}{section.2.5}% 19
+\BOOKMARK [0][-]{chapter.3}{Unsupervised Learning and Large Scale Problems}{}% 20
+\BOOKMARK [1][-]{section.3.1}{Exercises}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.1.1}{Kernel principal component analysis}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.2}{Spectral Clustering}{section.3.1}% 23
+\BOOKMARK [2][-]{subsection.3.1.3}{Fixed-size LS-SVM}{section.3.1}% 24
+\BOOKMARK [1][-]{section.3.2}{Homework Problems}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.2.1}{Kernel principal component analysis}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.2}{ Fixed-size LS-SVM}{section.3.2}% 27

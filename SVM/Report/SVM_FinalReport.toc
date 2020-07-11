@@ -1,0 +1,34 @@
+\contentsline {chapter}{\numberline {1}Exercise 1 : SVM Classification}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Exercise 1}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Two Gaussians :}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Support Vector Machine Classifier:}{1}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Least-Squares Support Vector Machine Classifier:}{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{Influence of hyperparameters and kernel parameters }{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{Tuning parameters using validation}{7}{figure.caption.13}%
+\contentsline {subsubsection}{Automatic parameter tuning}{9}{figure.caption.17}%
+\contentsline {subsubsection}{Using ROC Curves}{10}{table.caption.18}%
+\contentsline {subsubsection}{Bayesian framework}{10}{figure.caption.19}%
+\contentsline {section}{\numberline {1.2}Homework Problems}{12}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Ripley Dataset}{12}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Wisconsin Breast Cancer dataset}{13}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Diabetes dataset}{14}{subsection.1.2.3}%
+\contentsline {chapter}{\numberline {2}Exercise 2: Function Estimation and Time Series Prediction}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Support vector machine for function estimation}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The sinc function}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Regression of the sinc function}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Application of the Bayesian framework}{18}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Automatic Relevance Determination}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Robust regression}{19}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Homework Problems}{21}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Logmap dataset}{21}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Santa Fe dataset}{22}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Unsupervised Learning and Large Scale Problems}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Exercises}{23}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Kernel principal component analysis}{23}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Spectral Clustering}{24}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Fixed-size LS-SVM}{24}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Homework Problems}{25}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Kernel principal component analysis}{25}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2} Fixed-size LS-SVM}{27}{subsection.3.2.2}%
+\contentsline {subsubsection}{ Shuttle (statlog)}{27}{subsection.3.2.2}%
+\contentsline {subsubsection}{ California dataset}{27}{figure.caption.49}%

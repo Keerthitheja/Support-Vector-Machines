@@ -1,0 +1,15 @@
+\contentsline {chapter}{\numberline {1}Exercise 1: SVM Classification}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Exercise 1}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Two Gaussians :}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Support Vector Machine Classifier:}{1}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Least-Squares Support Vector Machine Classifier:}{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{Influence of hyperparameters and kernel parameters }{5}{subsection.1.1.3}%
+\contentsline {subsubsection}{Tuning parameters using validation}{7}{figure.caption.12}%
+\contentsline {subsubsection}{Automatic parameter tuning}{9}{figure.caption.16}%
+\contentsline {subsubsection}{Using ROC Curves}{10}{table.caption.17}%
+\contentsline {subsubsection}{Bayesian framework}{10}{figure.caption.18}%
+\contentsline {section}{\numberline {1.2}Homework Problems}{12}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Ripley Dataset}{12}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Wisconsin Breast Cancer dataset}{12}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Diabetes dataset}{13}{subsection.1.2.3}%
+\contentsline {chapter}{\numberline {2}Exercise 2: Function Estimation and Time Series Prediction}{15}{chapter.2}%
